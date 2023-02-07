@@ -1,1 +1,6 @@
-# aula_html5_CSS3
+# Treinamento da aula
+
+1- HTML
+
+2- CSS
+
